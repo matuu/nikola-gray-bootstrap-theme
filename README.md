@@ -1,7 +1,7 @@
 Theme for Nikola based in bootstrap theme.
 ==========================================
 
-This theme is used in my personal blog Matuu!_.
+This theme is used in my personal blog http://www.matuu.com.ar.
 
 Header
 ------
@@ -11,7 +11,3 @@ Footer
 ------
 
 ![Footer theme](screenshot/footer-matuu.png)
-
-.. _`Matuu!`: http://www.matuu.com.ar
-
-
