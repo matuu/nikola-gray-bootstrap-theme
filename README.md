@@ -1,2 +1,5 @@
-# nikola-gray-bootstrap-theme
-Theme used on www.matuu.com.ar for nikola
+# Theme for Nikola
+
+## based in bootstrap theme.
+
+This theme is used in my personal blog (http://www.matuu.com.ar)[Matuu!].
